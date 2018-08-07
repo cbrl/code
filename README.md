@@ -5,7 +5,9 @@ webpage: cbrl.github.io
 The program is developed on the following equipment:
 
 Raspberry Pi model B development board
+
 Brother QL-800 printer
+
 TP-LINK TL-WN722N USB Wi-Fi dongle
 
 The program should work without problems on Raspberry Pi Zero W 512MB RAM (same SOC).
