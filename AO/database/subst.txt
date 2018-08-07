@@ -1,0 +1,35 @@
+|Simwastatyna|SIMWASTATYNA|14|h*3A4;su;l|Stosując lek unikaj spożywania grejpfrutów. Jedzenie grejpfrutów spowoduje, że lek będzie działał zbyt mocno bo zwiększy się jego stężenie we krwi. Uwaga na objawy miopatii!
+|Sildenafil|SILDENAFIL|0|m*3A4;su;l|Poleć przeczytanie ulotki gdy brane OTC.
+|Acenokumarol|ACENOKUMAROL|0|h*2C9;su;l|hihihi
+|Atorwastatyna|ATORWASTATYNA|1;2;0|l*3A4;su;l|Uwaga na objawy miopatii.
+|Karwedilol|KARWEDILOL|0|l*2D6;su;l|hihihi.
+|Citalopram|CITALOPRAM|0|l*2D6;su;l|hihihi
+|Klarytromycyna|KLARYTROMYCYNA|0|m*3A4+l*2c19;su;l|hihihi
+|Klopidogrel|KLOPIDOGREL|0|l*2C19;su;l|hihihi.
+|Kodeina|KODEINA|0|h*2D6;su;l|Duże różnice międzyosobnicze w intensywności działania.
+|Deksametazon|DEKSAMETAZON|0|m*3A4;su;l|hihihi.
+|Diazepam|DIAZEPAM|0|l*2C19;su;l|Długo działające benzo.
+|Duloksetyna|DULOKSETYNA|0|l*1A2;su;l|hihihi.
+|Doksycyklina|DOKSYCYKLINA|17|?;?;?|Lek jest fotouczulający. Ekspozycja na światło słoneczne może pozostawiać trwałe przebarwienia skóry.
+|Fluoksetyna|FLUOKSETYNA|0|l*2C19;su;l|hihihi.
+|Furazydyna|FURAZYDYNA|15|?;?;?|U dzieci powyżej 15. roku życia oraz u dorosłych:W pierwszej dobie 4 tabletki po 100 mg, przez kolejne dni 3 tabletki po 100 mg. Terapia powinna trwać przynajmniej 7 dni.
+|Ibuprofen|IBUPROFEN|0|m*2C9;su;l|Udowodniono, że powoduje bezpłodność u mężczyzn. 
+|Ketokonazol|KETOKONAZOL|0|h*3A4;ih;l|Lepiej zrobić przegląd szczeg. dla dawek >200mg/d.
+|Metoklopramid|METOKLOPRAMID|0|v*3A4;su;l|hihihi.
+|Naproksen|NAPROKSEN|0|v*3A4;su;l|hihihi.
+|Olanzapina|OLANZAPINA|0|v*3A4;su;l|hihihi.
+|Omeprazol|OMEPRAZOL|13|m*2C19;su;l|Najlepiej brać rano.
+|Pantoprazol|PANTOPRAZOL|0|m*2C19;su;l|Substancja rozkłada się pod wpływem soku żoł.
+|Paracetamol|PARACETAMOL|16|?;?;?|SPRAWDŹ CZY STOSUJESZ INNE LEKI ZAWIERAJĄCE PARACETAMOL! Dorośli bez czynników ryzyka doustnie maksymalnie jednorazowo 1g. Max. 4g/dobę. Stosując przewlekle 2,5g/dobę.
+|Paroksetyna|PAROKSETYNA|0|m*2D6;su;l|hihihi.
+|Propranolol|PROPRANOLOL|0|l*2D6;su;l|hihihi.
+|Riwaroksaban|RIWAROKSABAN|0|v*3A4;su;l|Liczne interakcje w fazie FK związane z 3A4.
+|Tizanidyna|TIZANIDYNA|5|?;?;?|Powoduje hipotonię ortostatyczną.
+|Tramadol|TRAMADOL|0|v*3A4;su;l|hihihi.
+|Warfaryna|WARFARYNA|0|h*2C9;su;l|hihihi.
+|Zolpidem|ZOLPIDEM|0|v*3A4;su;l|Tuż przed położeniem się spać.
+|Amlodypina|AMLODYPINA|0|l*3A4;su;l|hihihi.
+|Flukonazol|FLUKONAZOL|0|m*3A4+l*2C9+m*2C19;id;l|Silny inhibitor enzymatyczy. Przegląd wskazany.
+|Terbinafina|TERBINAFINA|0|h*2D6;ih;l|hihihi.
+|Fenobarbital|FENOBARBITAL|0|h*3A4;id;l|Długi okres półtrwania kumulacja w tkance tł.
+
