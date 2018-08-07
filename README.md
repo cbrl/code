@@ -20,7 +20,5 @@ Make sure you have Pillow and brother_ql package installed and RAMdisk launched.
 
 If you have problems with printing, install printer drivers from the printer manufacturer's website.
 
-If you want to save time, I will make the SD card image available for you. 
-
-Just let me know through cyberlepki@gmail.com.
+If you want to save time, I will make the SD card image available for you. Just let me know through cyberlepki@gmail.com.
 
