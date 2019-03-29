@@ -1,6 +1,5 @@
 CyberLepki - a program facilitating the labeling of drug packages.
 
-webpage: cbrl.github.io
 
 The program is developed on the following equipment:
 
